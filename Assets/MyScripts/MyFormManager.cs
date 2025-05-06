@@ -1,16 +1,13 @@
 using UnityEngine;
+using TMPro;
+using UnityEngine.UI;
 
 public class MyFormManager : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-        
-    }
+    public Selectable firstInput;
 
-    // Update is called once per frame
-    void Update()
+    private void OnEnable()
     {
-        
+        firstInput.Select();
     }
 }
