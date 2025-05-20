@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f4b75e651985c9c4f9d577c6d7efe1fb
+timeCreated: 1508154625
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 108880
+  packageName: Tasty Characters - Sea Pack
+  packageVersion: 1.0
+  assetPath: Assets/Tasty_Characters - Sea Pack/Assets/Prefabs/Chara_01.prefab
+  uploadId: 223112
